@@ -6,8 +6,10 @@ user-agent: UVClay
 sites:
   - name: bitrot-dg (BUF 1)
     url: $BR_DG_HOSTNAME
+    icon: $BR_DG_HOSTNAME/pve2/images/logo-128.png
   - name: Fluxer
     url: https://chat.bitrot.cafe
+    icon: https://chat.bitrot.cafe/web/favicon.ico
   - name: Fluxer LiveKit (Video + Voice)
     check: "tcp-ping"
     url: chat.bitrot.cafe
@@ -15,6 +17,7 @@ sites:
     icon: https://chat.bitrot.cafe/web/favicon.ico
   - name: Gitrot
     url: https://git.bitrot.cafe
+    icon: https://git.bitrot.cafe/assets/img/favicon.png
   - name: Homepage
     url: https://bitrot.cafe
 
