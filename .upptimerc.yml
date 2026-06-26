@@ -26,6 +26,7 @@ status-website:
   name: Bitrot.cafe Status
   introTitle: "asdf"
   introMessage: fdsa :)
+  navbar:
     - title: Status
       href: /
     - title: GitHub
