@@ -4,13 +4,16 @@ repo: status # The name of this repository
 user-agent: UVClay
 
 sites:
+  - name: bitrot-dg (BUF 1)
+    url: $BR_DG_HOSTNAME
   - name: Fluxer
     url: https://chat.bitrot.cafe
   - name: Fluxer LiveKit (Video + Voice)
     check: "tcp-ping"
     url: chat.bitrot.cafe
     port: 7881
-  - name: Gitea
+    icon: https://chat.bitrot.cafe/web/favicon.ico
+  - name: Gitrot
     url: https://git.bitrot.cafe
   - name: Homepage
     url: https://bitrot.cafe
@@ -21,9 +24,8 @@ status-website:
   cname: status.bitrot.cafe
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Bitrot.cafe Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  introTitle: "asdf"
+  introMessage: fdsa :)
     - title: Status
       href: /
     - title: GitHub
