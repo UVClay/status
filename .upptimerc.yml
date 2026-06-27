@@ -6,7 +6,7 @@ user-agent: UVClay
 sites:
   - name: bitrot-dg (BUF 1)
     url: $BR_DG_HOSTNAME
-    icon: $BR_DG_HOSTNAME/pve2/images/logo-128.png
+    icon: https://proxmox.com/apple-touch-icon.png
   - name: Fluxer
     url: https://chat.bitrot.cafe
     icon: https://chat.bitrot.cafe/web/favicon.ico
