@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 365,
-    "timeWeek": 204,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 256,
+    "timeDay": 353,
+    "timeWeek": 227,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -23,14 +23,14 @@
     "icon": "https://chat.bitrot.cafe/web/favicon.ico",
     "slug": "fluxer",
     "status": "down",
-    "uptime": "86.57%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "86.57%",
-    "uptimeYear": "86.57%",
+    "uptime": "84.70%",
+    "uptimeDay": "57.80%",
+    "uptimeWeek": "93.97%",
+    "uptimeMonth": "84.70%",
+    "uptimeYear": "84.70%",
     "time": 356,
-    "timeDay": 231,
-    "timeWeek": 265,
+    "timeDay": 0,
+    "timeWeek": 244,
     "timeMonth": 356,
     "timeYear": 356,
     "dailyMinutesDown": {
@@ -38,7 +38,8 @@
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 160,
-      "2026-07-15": 7
+      "2026-07-16": 124,
+      "2026-07-15": 483
     }
   },
   {
@@ -47,13 +48,13 @@
     "icon": "https://chat.bitrot.cafe/web/favicon.ico",
     "slug": "fluxer-live-kit-video-voice",
     "status": "down",
-    "uptime": "86.60%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "86.60%",
-    "uptimeYear": "86.60%",
+    "uptime": "84.73%",
+    "uptimeDay": "58.09%",
+    "uptimeWeek": "94.01%",
+    "uptimeMonth": "84.73%",
+    "uptimeYear": "84.73%",
     "time": 47,
-    "timeDay": 73,
+    "timeDay": 0,
     "timeWeek": 38,
     "timeMonth": 47,
     "timeYear": 47,
@@ -62,7 +63,8 @@
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 156,
-      "2026-07-15": 3
+      "2026-07-16": 124,
+      "2026-07-15": 479
     }
   },
   {
@@ -71,18 +73,19 @@
     "icon": "https://git.bitrot.cafe/assets/img/favicon.png",
     "slug": "gitrot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1330,
-    "timeDay": 10151,
-    "timeWeek": 2897,
-    "timeMonth": 1330,
-    "timeYear": 1330,
+    "uptime": "97.84%",
+    "uptimeDay": "58.17%",
+    "uptimeWeek": "94.02%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
+    "time": 2090,
+    "timeDay": 19564,
+    "timeWeek": 5266,
+    "timeMonth": 2090,
+    "timeYear": 2090,
     "dailyMinutesDown": {
-      "2026-07-15": 1
+      "2026-07-16": 124,
+      "2026-07-15": 478
     }
   },
   {
@@ -91,19 +94,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitrot.cafe.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1193,
-    "timeDay": 10161,
-    "timeWeek": 2785,
-    "timeMonth": 1193,
-    "timeYear": 1193,
+    "uptime": "97.64%",
+    "uptimeDay": "58.26%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.64%",
+    "time": 1917,
+    "timeDay": 19509,
+    "timeWeek": 5143,
+    "timeMonth": 1917,
+    "timeYear": 1917,
     "dailyMinutesDown": {
       "2026-06-26": 56,
-      "2026-07-15": 0
+      "2026-07-16": 124,
+      "2026-07-15": 477
     }
   }
 ]
