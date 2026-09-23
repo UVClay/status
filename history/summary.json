@@ -4,30 +4,32 @@
     "url": "$BR_DG_HOSTNAME",
     "icon": "https://proxmox.com/apple-touch-icon.png",
     "slug": "bitrot-dg-buf-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 144,
-    "timeWeek": 237,
-    "timeMonth": 222,
-    "timeYear": 231,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 308,
+    "timeDay": 3702,
+    "timeWeek": 1115,
+    "timeMonth": 442,
+    "timeYear": 308,
+    "dailyMinutesDown": {
+      "2026-09-23": 10
+    }
   },
   {
     "name": "Fluxer",
     "url": "https://chat.bitrot.cafe",
     "icon": "https://chat.bitrot.cafe/web/favicon.ico",
     "slug": "fluxer",
-    "status": "up",
-    "uptime": "95.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.85%",
+    "status": "down",
+    "uptime": "95.88%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "95.88%",
     "time": 355,
     "timeDay": 172,
     "timeWeek": 378,
@@ -39,7 +41,8 @@
       "2026-06-29": 1440,
       "2026-06-28": 160,
       "2026-07-16": 1137,
-      "2026-07-15": 483
+      "2026-07-15": 483,
+      "2026-09-23": 5
     }
   },
   {
@@ -47,12 +50,12 @@
     "url": "chat.bitrot.cafe",
     "icon": "https://chat.bitrot.cafe/web/favicon.ico",
     "slug": "fluxer-live-kit-video-voice",
-    "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "95.90%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.86%",
+    "uptimeYear": "95.90%",
     "time": 42,
     "timeDay": 22,
     "timeWeek": 39,
@@ -64,7 +67,8 @@
       "2026-06-29": 1440,
       "2026-06-28": 156,
       "2026-07-16": 1133,
-      "2026-07-15": 479
+      "2026-07-15": 479,
+      "2026-09-23": 1
     }
   },
   {
@@ -72,20 +76,21 @@
     "url": "https://git.bitrot.cafe",
     "icon": "https://git.bitrot.cafe/assets/img/favicon.png",
     "slug": "gitrot",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.68%",
-    "time": 1004,
-    "timeDay": 157,
-    "timeWeek": 328,
-    "timeMonth": 341,
-    "timeYear": 1004,
+    "uptimeYear": "98.69%",
+    "time": 1071,
+    "timeDay": 3789,
+    "timeWeek": 1215,
+    "timeMonth": 562,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2026-07-16": 1197,
-      "2026-07-15": 478
+      "2026-07-15": 478,
+      "2026-09-23": 0
     }
   },
   {
@@ -93,21 +98,22 @@
     "url": "https://bitrot.cafe",
     "icon": "https://icons.duckduckgo.com/ip3/bitrot.cafe.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.64%",
-    "time": 946,
-    "timeDay": 123,
-    "timeWeek": 269,
-    "timeMonth": 274,
-    "timeYear": 946,
+    "uptimeYear": "98.65%",
+    "time": 958,
+    "timeDay": 1113,
+    "timeWeek": 498,
+    "timeMonth": 331,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2026-06-26": 56,
       "2026-07-16": 1196,
-      "2026-07-15": 477
+      "2026-07-15": 477,
+      "2026-09-23": 0
     }
   }
 ]
